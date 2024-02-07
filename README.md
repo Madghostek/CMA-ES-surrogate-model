@@ -11,3 +11,7 @@ cp -R cec2017-py/cec2017 .
 purecma.py - lekko zmodyfikowana wersja `purecma.py` z https://github.com/CMA-ES/pycma
 
 pop_cma.py - nasza próba implementacji, niestabilna
+
+
+# Wnioski końcowe
+Drzewo decyzyjne prawie wcale nie nadaje się na model zastępczy... nie ma możliwości ekstrapolacji!
